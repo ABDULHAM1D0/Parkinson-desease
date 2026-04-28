@@ -1,5 +1,5 @@
 # 🧠 Parkinson’s Disease Prediction using Machine Learning
-## 📋 Overview
+## 📋 Overview.
 
 This project aims to predict whether an individual has Parkinson’s disease based on biomedical voice measurements.
 Using a dataset from Kaggle – Parkinson’s Disease Dataset, several machine learning algorithms were trained, evaluated, and compared to find the best-performing model.
